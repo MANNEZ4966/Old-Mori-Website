@@ -3,12 +3,13 @@ import Link from "next/link";
 
 export default function Commands() {
   const commands = [
+   "/247",
     "/help",
     "/invite",
     "/lyrics",
     "/ping",
     "/botinfo",
-    "/setdj",
+    "/adddj",
     "/play",
     "/serach",
     "/stop",
@@ -23,7 +24,7 @@ export default function Commands() {
       "/nowplaying",
       "/save",
       "/loop",
-      "/filter"
+      "/filters"
       ]
   return (
     <>
