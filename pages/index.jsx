@@ -13,7 +13,7 @@ export default function Index() {
           001 Music
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
-       บอทเปิดเพลงสุดกระโปกหมาที่แทบจะมีปัญหาทุกครั้ง😎 
+       บอทเปิดเพลงที่มีฟีเจอร์เยอะ และใช้ Lavalink คุณภาพจาก Maki Service Shop😎 
 	  </p>
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
