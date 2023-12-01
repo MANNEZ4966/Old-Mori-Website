@@ -3,7 +3,7 @@
 - Node 16+
 
 <hr>
-# Mori Music<br>
+Mori Music<br>
 Invite: <br>
 Github: https://github.com/MoriDev-2023<br>
 Support: https://discord.gg/Qqj2kCd6Qd
